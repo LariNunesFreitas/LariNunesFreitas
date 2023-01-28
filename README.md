@@ -1,5 +1,5 @@
-## 
-- 👋 Hi, I’m @LariNunesFreitas
+## 👋 Hi, I’m @LariNunesFreitas
+
 - 👀 I’m interested in learn, develop and evolve
 - 👀 I’m currently learning language C, java and python, computing logic, software engineering etc.
 - 🌱 I like to travel and rest, and clean the house
