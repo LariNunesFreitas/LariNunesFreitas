@@ -1,3 +1,4 @@
+## 
 - 👋 Hi, I’m @LariNunesFreitas
 - 👀 I’m interested in learn, develop and evolve
 - 👀 I’m currently learning language C, java and python, computing logic, software engineering etc.
